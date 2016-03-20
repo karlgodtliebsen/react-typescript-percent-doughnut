@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "react",
+    "noImplicitAny": true,
+    "sourceMap": true
+  },
+  "exclude": ["node_modules", "gulpfile.js", "webpack.config.js", "server.js"]
+}
